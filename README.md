@@ -1,6 +1,6 @@
 # AI LABS Project
 
-Welcome to our AI LABS Project repository! This project is focused on solving classic problems through the implementation of algorithms in Python. Our main objective is to develop practical solutions to the following aims.
+Welcome to my AI LABS Project repository! This project is focused on solving classic problems through the implementation of algorithms in Python. Our main objective is to develop practical solutions to the following aims.
 
 ## Project Aims
 
