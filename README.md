@@ -21,7 +21,7 @@ The fourth aim of the AI LABS Project is to extend the capabilities of the Pytho
 ### 5. Tic Tac Toe Game using Min-Max Algorithm
 The fifth aim of the AI LABS Project Develop a Python program that simulates a Tic Tac Toe game where the human player can compete against the computer, which uses the Minimax algorithm to make its moves. The Minimax algorithm is a decision rule for minimizing the possible loss for a worst-case scenario. When dealing with gains, it is known as "maximin"—to maximize the minimum gain.
 
-### 6. 8 Puzzle Problem using A* Algorithm
+### 6. IDDFS for route finding on Romania Map
 Create a Python program that solves route-finding problems on the Romania map (a common example in AI textbooks) using the Iterative Deepening Depth-First Search (IDDFS) algorithm. This problem involves finding a path from one city to another.
 
 ## Getting Started
