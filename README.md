@@ -18,6 +18,9 @@ The third aim of the AI LABS Project is to develop a Python program capable of s
 ### 4. 8 Puzzle Problem using A* Algorithm
 The fourth aim of the AI LABS Project is to extend the capabilities of the Python program developed in the third aim by implementing the A* algorithm to solve the 8 Puzzle Problem. A* is a heuristic search algorithm that efficiently finds the shortest path to a goal state by using a combination of the actual cost to reach a node and an estimate of the cost from the current node to the goal
 
+### 5. Tic Tac Toe Game using Min-Max Algorithm
+The fifth aim of the AI LABS Project Develop a Python program that simulates a Tic Tac Toe game where the human player can compete against the computer, which uses the Minimax algorithm to make its moves. The Minimax algorithm is a decision rule for minimizing the possible loss for a worst-case scenario. When dealing with gains, it is known as "maximin"—to maximize the minimum gain.
+
 ## Getting Started
 
 To get started with this project, you will need to have Python installed on your system. The projects have been developed with Python 3.8, but they should be compatible with most Python 3.x versions.
