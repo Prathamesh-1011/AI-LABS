@@ -24,8 +24,8 @@ The fifth aim of the AI LABS is to Develop a Python program that simulates a Tic
 ### 6. IDDFS Algorithm
 The sixth aim of the AI LABS is to Create a Python program that solves route-finding problems on the Romania map (a common example in AI textbooks) using the Iterative Deepening Depth-First Search (IDDFS) algorithm. This problem involves finding a path from one city to another.
 
-### 7. Naive Bayes Algorithm
-The seventh aim of the AI LABS is to implement Naive Bayes Algorithm to predict the probability of an event, based on prior knowledge of conditions that might be related to that event.
+### 6. 8 Puzzle Problem using A* Algorithm
+Create a Python program that solves route-finding problems on the Romania map (a common example in AI textbooks) using the Iterative Deepening Depth-First Search (IDDFS) algorithm. This problem involves finding a path from one city to another.
 
 ## Getting Started
 
