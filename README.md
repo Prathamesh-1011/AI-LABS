@@ -6,23 +6,26 @@ Welcome to my AI LABS Project repository! This project is focused on solving cla
 
 ### 1. Water Jug Problem Simulator
 
-The first aim of this project is to develop a Python program that simulates the Water Jug Problem. This problem involves two jugs with different capacities and the goal is to measure out a specific amount of water using these jugs. This simulation will help understand the application of problem-solving techniques in AI.
+The first aim of the AI LABS is to develop a Python program that simulates the Water Jug Problem. This problem involves two jugs with different capacities and the goal is to measure out a specific amount of water using these jugs. This simulation will help understand the application of problem-solving techniques in AI.
 
 ### 2. Tic Tac Toe Game for Man vs. Machine
 
-The second aim is to create a Python program that simulates a Tic Tac Toe game where a human player can play against the computer. The focus is on implementing an intelligent algorithm that showcases the basic principles of game theory and AI strategy.
+The second aim of the AI LABS is to create a Python program that simulates a Tic Tac Toe game where a human player can play against the computer. The focus is on implementing an intelligent algorithm that showcases the basic principles of game theory and AI strategy.
 
 ### 3. 8 Puzzle Problem 
-The third aim of the AI LABS Project is to develop a Python program capable of solving the 8 Puzzle Problem using both Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms. This aim will demonstrate the application of classic search algorithms in solving a problem that is a staple in the study of AI and computational problem-solving.
+The third aim of the AI LABS is to develop a Python program capable of solving the 8 Puzzle Problem using both Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms. This aim will demonstrate the application of classic search algorithms in solving a problem that is a staple in the study of AI and computational problem-solving.
 
 ### 4. 8 Puzzle Problem using A* Algorithm
-The fourth aim of the AI LABS Project is to extend the capabilities of the Python program developed in the third aim by implementing the A* algorithm to solve the 8 Puzzle Problem. A* is a heuristic search algorithm that efficiently finds the shortest path to a goal state by using a combination of the actual cost to reach a node and an estimate of the cost from the current node to the goal
+The fourth aim of the AI LABS is to extend the capabilities of the Python program developed in the third aim by implementing the A* algorithm to solve the 8 Puzzle Problem. A* is a heuristic search algorithm that efficiently finds the shortest path to a goal state by using a combination of the actual cost to reach a node and an estimate of the cost from the current node to the goal
 
 ### 5. Tic Tac Toe Game using Min-Max Algorithm
-The fifth aim of the AI LABS Project Develop a Python program that simulates a Tic Tac Toe game where the human player can compete against the computer, which uses the Minimax algorithm to make its moves. The Minimax algorithm is a decision rule for minimizing the possible loss for a worst-case scenario. When dealing with gains, it is known as "maximin"—to maximize the minimum gain.
+The fifth aim of the AI LABS is to Develop a Python program that simulates a Tic Tac Toe game where the human player can compete against the computer, which uses the Minimax algorithm to make its moves. The Minimax algorithm is a decision rule for minimizing the possible loss for a worst-case scenario. When dealing with gains, it is known as "maximin"—to maximize the minimum gain.
 
-### 6. 8 Puzzle Problem using A* Algorithm
-Create a Python program that solves route-finding problems on the Romania map (a common example in AI textbooks) using the Iterative Deepening Depth-First Search (IDDFS) algorithm. This problem involves finding a path from one city to another.
+### 6. IDDFS Algorithm
+The sixth aim of the AI LABS is to Create a Python program that solves route-finding problems on the Romania map (a common example in AI textbooks) using the Iterative Deepening Depth-First Search (IDDFS) algorithm. This problem involves finding a path from one city to another.
+
+### 7. Naive Bayes Algorithm
+The seventh aim of the AI LABS is to implement Naive Bayes Algorithm to predict the probability of an event, based on prior knowledge of conditions that might be related to that event.
 
 ## Getting Started
 
